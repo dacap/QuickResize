@@ -1,0 +1,8 @@
+{
+  "name": "Quick-Resize",
+  "displayName": "Quick-Resize",
+  "description": "Quick-Resize Extension",
+  "version": "0.1",
+  "author": { "name": "David Capello", "email": "david@igarastudio.com", "url": "https://davidcapello.com/" },
+  "contributes": { "scripts": "Quick-Resize.lua" }
+}
