@@ -14,3 +14,4 @@ Download the [latest release](https://github.com/dacap/QuickResize/releases) and
    installed on Aseprite.
 2. Other way is going to *Edit > Preferences > Extensions > Add
    Extension* and selecting the `QuickResize.aseprite-extension` file.
+3. Restart Aseprite.
